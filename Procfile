@@ -1,1 +1,1 @@
-web: gunicorn listener:app
+web: python -m gunicorn listener:app
