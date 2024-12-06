@@ -1,1 +1,1 @@
-web: gunicorn listener:app --log-level debug
+web: gunicorn listener:app
